@@ -25,7 +25,8 @@ env:
 # REPO_URL: https://github.com/coolsnowwolf/lede
   REPO_URL: https://github.com/Lienol/openwrt
   REPO_BRANCH: master
-  FEEDS_CONF: feeds.conf.default
+# FEEDS_CONF: feeds.conf.default
+  FEEDS_CONF: feeds.config.Lienol.21
   CONFIG_FILE: r619.config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
